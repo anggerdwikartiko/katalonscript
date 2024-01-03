@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Chrome_Register with user already exist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2721f667-d7e7-4a74-bfbd-0bc49754b5ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11. chrome_buy product before login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef3c65f1-1d48-4598-b88d-6dd1d20660b7</testCaseGuid>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>138e8cf4-1a21-4ae8-ad7b-22066656f392</id>
+      <masked>false</masked>
+      <name>checked</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>d2e8b145-0db5-4915-b66f-3d571f8abed1</id>
+      <masked>false</masked>
+      <name>notChecked</name>
+   </variable>
+</TestCaseEntity>

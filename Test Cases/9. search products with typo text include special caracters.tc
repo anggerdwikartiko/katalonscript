@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. search products with typo text include special caracters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ba433bb-a626-40f2-8d81-7c2de7fa7c2f</testCaseGuid>
+</TestCaseEntity>
